@@ -39,4 +39,4 @@ The project is divided into two main stages:
 
 ## Results
 
-As a result, the studied models did not show good results, which indicates the absence of a pattern in the price of gold. None of the models turned out to be better than baseline in the studied period with 60-days horizont forecast.
+As a result, the studied models did not show good results, which indicates the absence of a pattern in the price of gold. None of the models turned out to be better than baseline in the studied period with 60-days horizon forecast.
